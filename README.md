@@ -1,5 +1,5 @@
 <include a CircleCI status badge, here>
-[![<ORG_NAME>](https://circleci.com/gh/shamimgeek/operationalize-a-machine-learning-microservice-api.svg?style=svg)](https://circleci.com/gh/shamimgeek/operationalize-a-machine-learning-microservice-api)
+[![<ORG_NAME>](https://circleci.com/gh/goldin2008/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/goldin2008/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
