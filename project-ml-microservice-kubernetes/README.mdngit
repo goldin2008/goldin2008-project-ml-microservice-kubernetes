@@ -1,0 +1,1 @@
+# project-ml-microservice-kubernetes initngit add README.mdngit commit -m first commitngit branch -M masterngit remote add origin https://github.com/goldin2008/project-ml-microservice-kubernetes.gitngit push -u origin master
