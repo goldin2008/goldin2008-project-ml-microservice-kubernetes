@@ -2,6 +2,10 @@
 
 [![<CircleCI>](https://circleci.com/gh/goldin2008/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/goldin2008/project-ml-microservice-kubernetes)
 
+> https://circleci.com/docs/2.0/status-badges/
+
+> https://nf-co.re/errors
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
