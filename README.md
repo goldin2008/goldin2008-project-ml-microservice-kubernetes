@@ -80,3 +80,7 @@ source ~/.devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Kubernetes Clean Up
+- `kubectl delete deployment.apps/development`
+- `kubectl delete svc development`
