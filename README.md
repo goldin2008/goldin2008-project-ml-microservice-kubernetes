@@ -6,6 +6,11 @@
 
 > https://nf-co.re/errors
 
+Great Assignment! You really showed up you competence on deploying a ML-Model to docker and kubernetes. Perhaps you also want to try Heroku - a platform for serverless applications: www.heroku.com
+Here ist a blog-post describing how to deploy a ML model with flask/starlette on Heroku: 
+> https://medium.com/analytics-vidhya/put-deep-learning-image-classifier-in-action-a956c4a9bc58
+
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
