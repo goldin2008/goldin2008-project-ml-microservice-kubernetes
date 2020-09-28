@@ -61,6 +61,8 @@ source ~/.devops/bin/activate
 
 * Run `make install` to install the necessary dependencies
 
+---
+
 ### Running `app.py`
 
 1. Standalone:  `python app.py`
