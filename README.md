@@ -29,25 +29,24 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ---
 
-### Files included:
+### Files
 
+* `README.md`: Readme file for the GitHub repository
 * `.circleci` - circleci config scripts
+* `config.yml` - Checks the project code for errors with CircleCI
+* `app.py`: Main Python file for the flask application
+* `Dockerfile`: Dockre configuration file for creating the docker image
+* `Makefile`: Make file that includes the command to install the python dependencies (`make install`) and linting (`make lint`)
+* `requirements.txt`: list of the dependency libraries required by the app
+* `run_docker.sh`: shell script to build, list and run the docker container
+* `upload_docker.sh`: shell script to tag and upload the docker image to Docker Hub
+* `run_kubernetes.sh`: shell script to run the container in a Kubernetes pod, list the pod and forward its port to the host port
+* `make_prediction.sh`: Shell script to call the application endpoint with test data
 * `model_data` - ML model related data (model, csv data)
 * `output_txt_files` - project output files (docker, kubernetes)
     * `docker_out.txt` - run_docker.sh output
-    * `docker_prediction_out.txt` - make_prediction.sh output while running docker
-    * `kubernetes_container_logs.txt` - kubectl logs output for the pod
     * `kubernetes_out.txt` - run_kubernetes.sh output
-    * `kubernetes_prediction_out.txt` - make_prediction.sh output while running k8s pod
-* `app.py` - python web application entry point file
-* `Dickerfile` - docker image config
-* `make_prediction.sh` - make prediction HTTP call script
-* `Makefile` - make file (install, test, lint steps)
-* `requirements.txt` - web application dependencies (python, libraries)
-* `run_docker.sh` - run docker container script
-* `run_kubernetes.sh` - run kubernetes pod for the web app script
-*  `upload_docker.sh` - upload docker image to dicker hub script
-
+    
 ---
 
 ## Setup the Environment
