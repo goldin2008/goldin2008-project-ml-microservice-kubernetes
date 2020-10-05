@@ -1,1 +1,1 @@
-# project-ml-microservice-kubernetes
+# project-c2-infrastructure-as-code
