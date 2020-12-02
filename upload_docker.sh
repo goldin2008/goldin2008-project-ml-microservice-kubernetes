@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="goldin2008/project-ml-microservice-kubernetes"
+dockerpath="goldin2008/microservices"
 
 # Step 2:  
 # Authenticate & tag
